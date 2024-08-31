@@ -21,4 +21,3 @@ while loop == 1:
     loop = int(input ("Continuar cargando datos(1), Parar de cargar(0) "))
 
 print(identificacion)
-"puto"
